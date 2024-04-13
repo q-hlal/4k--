@@ -1,0 +1,335 @@
+{
+  "itemData": [
+    {
+      "itemName": "29392439",
+      "category": "سويتر",
+      "color": [
+        "أحمر",
+        "أسود",
+        "أبيض"
+      ],
+      "sizes": [
+        "M",
+        "S",
+        "3XL"
+      ],
+      "img": {},
+      "price": "5000",
+      "quantity": "3",
+      "id": 1
+    },
+    {
+      "itemName": "0923943",
+      "category": "تي-شيرت رياضي",
+      "color": [
+        "بنفسجي",
+        "بيجي",
+        "رصاصي"
+      ],
+      "sizes": [
+        "8XL",
+        "6XL",
+        "4XL",
+        "5XL"
+      ],
+      "img": {},
+      "price": "3000",
+      "quantity": "4",
+      "id": 2
+    },
+    {
+      "itemName": "3220309429",
+      "category": "تراك سود",
+      "color": [
+        "أبيض",
+        "أسود",
+        "أصفر",
+        "أخضر"
+      ],
+      "sizes": [
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "img": {},
+      "price": "10000",
+      "quantity": "4",
+      "id": 3
+    },
+    {
+      "itemName": "343355555",
+      "category": " بجامه",
+      "color": [
+        "أحمر",
+        "فستقي",
+        "زيتوني"
+      ],
+      "sizes": [
+        "32",
+        "33",
+        "30",
+        "28"
+      ],
+      "img": {},
+      "price": "5000",
+      "quantity": "4",
+      "id": 4
+    },
+    {
+      "itemName": "976997",
+      "category": "جورب",
+      "color": [
+        "أزرق",
+        "أخضر",
+        "أحمر"
+      ],
+      "sizes": [],
+      "img": {},
+      "price": "1000",
+      "quantity": "5",
+      "id": 6
+    },
+    {
+      "itemName": "25523",
+      "category": "حذاء ",
+      "color": [
+        "أحمر",
+        "أزرق",
+        "فستقي"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31"
+      ],
+      "price": "10000",
+      "quantity": "3",
+      "id": 7
+    },
+    {
+      "itemName": "934934",
+      "category": "شورت",
+      "color": [
+        "أحمر",
+        "أزرق",
+        "أخضر",
+        "أصفر",
+        "أسود",
+        "أبيض",
+        "برتقالي",
+        "وردي",
+        "بنفسجي"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "img": {},
+      "price": "2000",
+      "quantity": "8",
+      "id": 8
+    },
+    {
+      "itemName": "3212131",
+      "category": "غطاء رأس",
+      "color": [
+        "أحمر",
+        "زيتوني"
+      ],
+      "sizes": [
+        "S"
+      ],
+      "img": null,
+      "price": "1000",
+      "quantity": "1",
+      "id": 9
+    }
+  ],
+  "DebitInfo": [
+    {
+      "name": "قاسم",
+      "number": "3464523",
+      "debit": 0,
+      "dateTime": {
+        "date": "Thursday, January 4, 2024",
+        "time": "5:12:00 PM"
+      },
+      "id": 1
+    },
+    {
+      "name": "يوسف",
+      "number": "3494023",
+      "debit": 0,
+      "dateTime": {
+        "date": "Thursday, January 4, 2024",
+        "time": "2:14:02 PM"
+      },
+      "id": 2
+    },
+    {
+      "name": "هقهقهقه",
+      "number": "3403205045",
+      "debit": 0,
+      "dateTime": {
+        "date": "Monday, April 8, 2024",
+        "time": "10:47:49 PM"
+      },
+      "id": 3
+    }
+  ],
+  "SingleItemInfo": [
+    {
+      "mainTransaction": {
+        "date": "Thursday, January 4, 2024",
+        "time": "10:50:42 AM",
+        "paymentOption": "دائن",
+        "totalAmount": 25000
+      },
+      "itemDetails": [
+        {
+          "transactionNumber": 1,
+          "selectedItem": "3220309429",
+          "selectedColor": "أسود",
+          "selectedSize": "L",
+          "quantity": 2,
+          "itemPrice": 20000,
+          "category": "تراك سود",
+          "total": 40000
+        },
+        {
+          "transactionNumber": 2,
+          "selectedItem": "343355555",
+          "selectedColor": "فستقي",
+          "selectedSize": "33",
+          "quantity": 1,
+          "itemPrice": "5000",
+          "category": " بجامه",
+          "total": 5000
+        }
+      ],
+      "id": 2
+    },
+    {
+      "mainTransaction": {
+        "date": "Thursday, January 4, 2024",
+        "time": "11:07:42 AM",
+        "paymentOption": "دائن",
+        "totalAmount": 10000
+      },
+      "itemDetails": [
+        {
+          "transactionNumber": 1,
+          "selectedItem": "3220309429",
+          "selectedColor": "",
+          "selectedSize": "",
+          "quantity": 1,
+          "itemPrice": "10000",
+          "category": "تراك سود",
+          "total": 10000
+        }
+      ],
+      "id": 3
+    },
+    {
+      "mainTransaction": {
+        "date": "Thursday, January 4, 2024",
+        "time": "11:38:12 AM",
+        "paymentOption": "دائن",
+        "totalAmount": 10000
+      },
+      "itemDetails": [
+        {
+          "transactionNumber": 1,
+          "selectedItem": "3220309429",
+          "selectedColor": "",
+          "selectedSize": "",
+          "quantity": 1,
+          "itemPrice": "10000",
+          "category": "تراك سود",
+          "total": 10000
+        }
+      ],
+      "id": 4
+    },
+    {
+      "mainTransaction": {
+        "date": "Thursday, January 4, 2024",
+        "time": "12:03:45 PM",
+        "paymentOption": "دائن",
+        "totalAmount": 5000
+      },
+      "itemDetails": [
+        {
+          "transactionNumber": 1,
+          "selectedItem": "343355555",
+          "selectedColor": "",
+          "selectedSize": "",
+          "quantity": 1,
+          "itemPrice": "5000",
+          "category": " بجامه",
+          "total": 5000
+        }
+      ],
+      "id": 5
+    },
+    {
+      "mainTransaction": {
+        "date": "Thursday, January 4, 2024",
+        "time": "2:16:01 PM",
+        "paymentOption": "دائن",
+        "totalAmount": 8000
+      },
+      "itemDetails": [
+        {
+          "transactionNumber": 1,
+          "selectedItem": "0923943",
+          "selectedColor": "",
+          "selectedSize": "",
+          "quantity": 1,
+          "itemPrice": "3000",
+          "category": "تي-شيرت رياضي",
+          "total": 3000
+        },
+        {
+          "transactionNumber": 2,
+          "selectedItem": "343355555",
+          "selectedColor": "",
+          "selectedSize": "",
+          "quantity": 1,
+          "itemPrice": "5000",
+          "category": " بجامه",
+          "total": 5000
+        }
+      ],
+      "id": 6
+    },
+    {
+      "mainTransaction": {
+        "date": "Monday, April 8, 2024",
+        "time": "10:46:36 PM",
+        "paymentOption": "دائن",
+        "totalAmount": 20000
+      },
+      "itemDetails": [
+        {
+          "transactionNumber": 1,
+          "selectedItem": "3220309429",
+          "selectedColor": "أسود",
+          "selectedSize": "3XL",
+          "quantity": 2,
+          "itemPrice": 20000,
+          "category": "تراك سود",
+          "total": 40000
+        }
+      ],
+      "id": 7
+    }
+  ]
+}
